@@ -1,3 +1,3 @@
-# My Game is Cool!
+Basic Javaskript
 
-Make sure you give it a good description here...
+This is where I will keep track of the basics stuff I learn
